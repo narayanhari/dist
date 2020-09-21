@@ -1,8 +1,7 @@
 ﻿# MLOps Project
 
 This project is a web application created using django in python which accepts video feeds from different sources and checks the distance between the people present in the video feed and also checks if the people are wearing a mask or not. An alert is raised when either a person is not wearing a mask or is not following social distancing.
-Jenkins is used for CI/CD and a machine learning model is used for mask detection.
-Complete video Description of project is - 
+Jenkins is used for CI/CD and a machine learning model is used for mask detection.  <br/>Complete video Description of project is - 
 
 # CI/CD
 
